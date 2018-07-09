@@ -4,6 +4,28 @@ body{
     left:200px;
     right: 200px;
 }
+.jumbotron{
+    background-color:  rgb(207, 149, 77);
+    height: 150px;
+}
+
+img{
+    height: 150px;
+    width:180px;
+}
+.textinput{
+    margin: 10px;
+    padding: 10px;
+}
+
+.submit{
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(54, 58, 61);
+}
+
+
     
 button{
     color:white;
@@ -13,29 +35,22 @@ button{
     color: white;
     background-color: red;
 }
-.submit{
-    padding: 10px;
-    border-radius: 50px;
-    color: white;
-    background-color: rgb(54, 58, 61);
-}
 
 
-.container,.create-form{
+
+.container{
     text-align: center;
 }
 
 .left{
     position: relative;
-    width:250px;
-    left: 250px;
+    float: left;
     background-color: rgb(58, 139, 108);
     
 }
 .right{
     position: relative;
-    width:250px;
-    left:850px;
+    float: right;
     background-color: rgb(112, 100, 163);
     
 }

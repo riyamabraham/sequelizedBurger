@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "riyamaryabraham",
+    "database": "burger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "riyamaryabraham",
+    "database": "burger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ac6lchz5ukvamrdj",
+    "password": "a69ab5iw37pmgdgn",
+    "database": "ytfnar8ol4jfbqkk",
+    "host": "3306",
+    "dialect": "mysql"
+  }
+}
