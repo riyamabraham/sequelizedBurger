@@ -1,20 +1,23 @@
 {
   "development": {
-    "username": "nydi63msdwufuht5",
-    "password": "owstunmjyxrs2tqc",
-    "database": "y52mo08qp246fsn1",
+    "username": "root",
+    "password": "riyamaryabraham",
+    "database": "burger",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "nydi63msdwufuht5",
-    "password": "owstunmjyxrs2tqc",
-    "database": "y52mo08qp246fsn1",
+    "username": "root",
+    "password": "riyamaryabraham",
+    "database": "burger",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "nydi63msdwufuht5",
-    "password": "owstunmjyxrs2tqc",
-    "database": "y52mo08qp246fsn1",
+    "username": "odfdiwu2vbk1p854",
+    "password": "lfycrldnlsutvrnl",
+    "database": "bz675dj7khxrr7jm",
+    "host": "3306",
     "dialect": "mysql"
   }
 }
