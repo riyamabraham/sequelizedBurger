@@ -1,16 +1,16 @@
 {
   "development": {
-    "username": "root",
-    "password": "riyamaryabraham",
-    "database": "burger",
-    "host": "127.0.0.1",
+    "username": "odfdiwu2vbk1p854",
+    "password": "lfycrldnlsutvrnl",
+    "database": "bz675dj7khxrr7jm",
+    "host": "3306",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "riyamaryabraham",
-    "database": "burger",
-    "host": "127.0.0.1",
+    "username": "odfdiwu2vbk1p854",
+    "password": "lfycrldnlsutvrnl",
+    "database": "bz675dj7khxrr7jm",
+    "host": "3306",
     "dialect": "mysql"
   },
   "production": {
