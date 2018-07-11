@@ -1,23 +1,20 @@
 {
   "development": {
-    "username": "odfdiwu2vbk1p854",
-    "password": "lfycrldnlsutvrnl",
-    "database": "bz675dj7khxrr7jm",
-    "host": "3306",
+    "username": "nydi63msdwufuht5",
+    "password": "owstunmjyxrs2tqc",
+    "database": "y52mo08qp246fsn1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "odfdiwu2vbk1p854",
-    "password": "lfycrldnlsutvrnl",
-    "database": "bz675dj7khxrr7jm",
-    "host": "3306",
+    "username": "nydi63msdwufuht5",
+    "password": "owstunmjyxrs2tqc",
+    "database": "y52mo08qp246fsn1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "odfdiwu2vbk1p854",
-    "password": "lfycrldnlsutvrnl",
-    "database": "bz675dj7khxrr7jm",
-    "host": "3306",
+    "username": "nydi63msdwufuht5",
+    "password": "owstunmjyxrs2tqc",
+    "database": "y52mo08qp246fsn1",
     "dialect": "mysql"
   }
 }
